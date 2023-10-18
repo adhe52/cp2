@@ -1,0 +1,2 @@
+INFO:root:Program Python sudah berjalan!
+ERROR:root:Terjadi kesalahan: division by zero
